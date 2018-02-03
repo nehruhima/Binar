@@ -1,0 +1,21 @@
+1.
+2. manifest
+3.Acreate-Astart-Aresume-Apause-Bcreate-Bstart-Bresume
+4. Private
+5. Instance Var : 
+a. Variabel yang dideklarasikan didalam class
+b. Variabel dibuat dengan ketika object menggunakan keyword new.
+c. Instance menggunakan access modifier seperti private, protected, public.
+Local Var
+a. Dideklarasikan didalam method.
+b. Tidak bisa menggunakan access modifier
+c. Local variabel tidak memiliki default value
+6. git clone
+7.
+8. Finishing
+9. deklarasi permission harusnya diluar application
+<uses-permission android:name="android.permission.CALL_PHONE"/>
+
+   <application>
+10. habis dibagi 3
+11. 
